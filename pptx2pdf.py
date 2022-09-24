@@ -2,7 +2,7 @@ import glob, os
 from PyPDF2 import PdfFileMerger
 
 # Folder To All The PDFs
-inputfldr = 'C:/Users/Naveed/Downloads/PF Lectures'
+inputfldr = 'C:/Users/'
 
 os.chdir(inputfldr)
 
